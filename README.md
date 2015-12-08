@@ -1,0 +1,2 @@
+# hadoop-esqueleto
+hadoop-esqueleto
